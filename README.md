@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently studying a MBA in Global Business. interested in AI using pyTorch
 
 <!--
 **allsoftaround/allsoftaround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
